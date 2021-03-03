@@ -20,7 +20,7 @@
                 <strong>Bulma</strong>
               </a> 
             </p>
-          </div>
+          </div> 
         </div>
       </div>
     </section>
