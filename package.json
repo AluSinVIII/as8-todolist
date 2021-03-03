@@ -45,5 +45,20 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "Dans cet atelier, nous allon apprendre à faire une **Todo List** en utilisant Vue.js et Bulma pour la gestion de notre style.",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AluSinVIII/as8-todolist.git"
+  },
+  "keywords": [
+    "todolist"
+  ],
+  "author": "Malo Braunschweig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AluSinVIII/as8-todolist/issues"
+  },
+  "homepage": "https://github.com/AluSinVIII/as8-todolist#readme"
 }
